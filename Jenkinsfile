@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Configuracion entorno') {
             steps {
-                echo 'Hello 1'
+                echo 'Paso 1 desde el repo'
             }
         }
         
